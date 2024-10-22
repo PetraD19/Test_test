@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    margin: 0 auto;
+  }
+
+  h1{font-size: larger; color: black;}
+  h2{font-size: x-large; color: darkcyan;}
+
+  #Analyza {background-color: aquamarine;}
+  #Design high level scenaru {background-color: blanchedalmond;}
+  #Navrhtestu {background-color: aquamarine;}
+  #Spustenitestu {background-color: blanchedalmond;}
+  #Menu {background-color: aquamarine;}
+
+
